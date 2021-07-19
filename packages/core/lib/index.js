@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('bye cli')
+console.log('test')
