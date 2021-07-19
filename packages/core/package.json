@@ -21,6 +21,5 @@
   },
   "dependencies": {
     "@tweeze-cli/utils": "^0.0.2"
-  },
-  "gitHead": "9ac2c4d2c0482673cf2553ca6409d26a65abed97"
+  }
 }
