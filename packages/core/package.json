@@ -5,7 +5,10 @@
   "author": "Laube <1803861304@qq.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/index.js",
+  "bin": {
+    "tweeze-cli": "lib/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
