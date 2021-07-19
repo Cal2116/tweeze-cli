@@ -1,6 +1,6 @@
 {
   "name": "@tweeze-cli/utils",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Laube <1803861304@qq.com>",
   "homepage": "",
@@ -15,5 +15,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "937c65bade402727b51a1c9b12dc05de64924d76",
+  "publishConfig": {
+    "access": "public"
   }
 }
