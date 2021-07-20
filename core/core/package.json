@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@tweeze-cli/utils": "^0.0.4"
+    "@tweeze-cli/utils": "file:../../utils/utils"
   },
   "gitHead": "937c65bade402727b51a1c9b12dc05de64924d76",
   "publishConfig": {
